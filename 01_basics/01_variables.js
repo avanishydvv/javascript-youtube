@@ -13,3 +13,5 @@ accountcity = "kota"
 console.log(accountId);
 
 console.table([accountEmail,accountId,accoutpassword,accountcity])
+
+
