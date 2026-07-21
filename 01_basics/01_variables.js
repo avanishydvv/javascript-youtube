@@ -1,8 +1,8 @@
 const accountId = 14451
 let accountEmail = "avn@gmail.com"
 var accoutpassword = "12345"
-accountcity = "Gorakhpur" 
-
+accountcity = "Gorakhpur"
+let accountState; /* ye udefined aayega output me  */
 
 //accountId = 2 // not allowed
 
@@ -12,6 +12,14 @@ accountcity = "kota"
 
 console.log(accountId);
 
-console.table([accountEmail,accountId,accoutpassword,accountcity])
+/*
+prefer not to use var:
+because of issue in block scope and
+ functional scope
+
+
+*/
+
+console.table([accountEmail,accountId,accoutpassword,accountcity,accountState])
 
 
