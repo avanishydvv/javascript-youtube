@@ -4,7 +4,7 @@
 
 console.log(3+3);
 
-let name ="Avanish"
+let name ="avanish"
 let age = 19
 let isLoggedIn = false
 let state;
@@ -16,5 +16,10 @@ let state;
     boolean=>true/False
     null => stnadalone value
     undefined => variable is declared but value is not assigned
-    symbol =
-*/
+    symbol => unique
+
+    objects
+    */
+    console.log(typeof undefined); // undefined
+    console.log(typeof null); // objects
+
