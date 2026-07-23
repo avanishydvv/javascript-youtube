@@ -1,3 +1,4 @@
+// lec-8
 // Primitive Data types
 
 // 7 types : String,Number,Boolean,Null,undefined,Symbol,
@@ -35,4 +36,4 @@ const myFunction=function(){
     console.log("Hello bro");
 }
 
-console.log(typeof outsideTemp)
+console.log(typeof heros)
