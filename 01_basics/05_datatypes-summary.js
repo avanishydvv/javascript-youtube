@@ -38,4 +38,6 @@ const myFunction=function(){
 
 console.log(typeof heros)
 
-
+// lec 10
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Stack , Heap
