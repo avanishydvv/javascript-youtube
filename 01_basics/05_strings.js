@@ -35,3 +35,5 @@ const url ="https://avanish.com/avanish%20ydv"
 console.log(url.replace('%20','-'))
 
 console.log(url.includes('sundar'))
+
+console.log(gameName.split());
