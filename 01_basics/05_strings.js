@@ -21,3 +21,13 @@ console.log(gameName.indexOf('i'));
 
 const newString = gameName.substring(0,4)
 console.log(newString);
+
+const anotherString = gameName.slice(-8,4)
+
+console.log(anotherString);
+
+const newStringOne = "  Avanish  "
+console.log(newStringOne);
+console.log(newString.trim()); /* ye extra spaces ko remove kar deta hai */
+
+
