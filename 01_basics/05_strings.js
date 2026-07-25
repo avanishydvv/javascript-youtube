@@ -30,4 +30,8 @@ const newStringOne = "  Avanish  "
 console.log(newStringOne);
 console.log(newString.trim()); /* ye extra spaces ko remove kar deta hai */
 
+const url ="https://avanish.com/avanish%20ydv"
 
+console.log(url.replace('%20','-'))
+
+console.log(url.includes('sundar'))
