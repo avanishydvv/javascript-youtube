@@ -1,13 +1,5 @@
-const score = 100
-// const scoreValue = 100.3
-
-// const isLoggedIn = false
-// const outsideTemp = null
-// let userEmail;
-
-// const id = Symbol('321')
-// const anotherId = symbol('321')
-
-// console.log(id === anotherId);
-
-// const bigNumber = 36756368368768558n
+console.log(myDate.toString());   /*Sun Jul 26 2026 15:30:44 GMT+0530 (India Standard Time)*/
+// console.log(myDate.toISOString()); /*2026-07-26T10:00:44.672Z */
+// console.log(myDate.toLocaleDateString());
+// console.log(myDate.toTimeString());
+// console.log(typeof myDate);  // object//
