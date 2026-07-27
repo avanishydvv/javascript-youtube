@@ -8,3 +8,5 @@ const myheros = ["avanish","hitesh"]
 const myArr2 =
 
 console.log(myArr[0]);
+
+
