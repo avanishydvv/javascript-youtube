@@ -25,5 +25,8 @@ let newDate = new Date()
 // console.log(newDate.getMonth());
 
 newDate.toLocaleString('default',{
-    weekday:"long"
+    weekday:"long",
+    
 })
+
+/******************* 27/06/20026 **********************/
