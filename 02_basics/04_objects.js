@@ -57,8 +57,30 @@ users[1].email
 // console.log(Object.values(tinderUser));            
 // console.log(Object.entries(tinderUser));            
 
-console.log(tinderUser.hasOwnproperty('isLoggedIn'));
+//console.log(tinderUser.hasOwnproperty('isLoggedIn'));
 
 
 /************Lec 17 ompleted  **********************/
 /*****************30/07/2026  ***********************/
+
+/******************** Lec 18 start  *****************/
+
+
+const course = {
+    coursename: "js in hindi",
+    price: "9999",
+    courseInstructor: "Avanish"
+}
+
+// course.courseInstructor
+const {courseInstructor: instructor} = course
+
+// console.log(courseInstructor);
+console.log(instructor);
+
+// const navbar = ({company}) => {
+
+// }
+
+// navbar(company = "Avanish")
+
