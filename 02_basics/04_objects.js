@@ -160,3 +160,6 @@ console.log(instructor);
     "version": "1.4"
   }
 }
+
+/********************completed till lec 18 ******************/
+
