@@ -15,16 +15,3 @@ const JsUser = {
 }
 
 console.log();
-
-
-
-
-
-
-
-
-
-
-
-
-
