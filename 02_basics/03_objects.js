@@ -6,8 +6,24 @@
 // Object Literals
 
 const JsUser = {
-    name: "Avanish"
+    name: "Avanish",
+    age: 19,
+    location: "Gorakhpur",
+    email: "Avanish@gmail.com",
+    isLoggedIn: false,
+    lastlogindays: ["Monday","Saturday"]
 }
 
-myArray = ["h","i"]
+console.log();
+
+
+
+
+
+
+
+
+
+
+
 
