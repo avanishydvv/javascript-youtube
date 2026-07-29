@@ -58,3 +58,7 @@ users[1].email
 // console.log(Object.entries(tinderUser));            
 
 console.log(tinderUser.hasOwnproperty('isLoggedIn'));
+
+
+/************Lec 17 ompleted  **********************/
+/*****************30/07/2026  ***********************/
