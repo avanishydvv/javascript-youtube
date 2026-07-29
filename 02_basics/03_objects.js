@@ -7,6 +7,7 @@
 
 const JsUser = {
     name: "Avanish",
+    "full name": "Avanish Yadav"
     age: 19,
     location: "Gorakhpur",
     email: "Avanish@gmail.com",
@@ -14,12 +15,5 @@ const JsUser = {
     lastlogindays: ["Monday","Saturday"]
 }
 
-console.log();
-
-
-
-
-
-
-
-
+console.log(JsUser.name);
+console.log(JsUser["email"]);
