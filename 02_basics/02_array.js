@@ -34,7 +34,3 @@ console.log(Array.of(score1,score2,score3));
 
 /*****************  end of lecture 29/07/2026 *****************/
 
-
-
-
-
