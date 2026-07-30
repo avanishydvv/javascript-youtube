@@ -31,7 +31,14 @@ const result = addtwoNum(3,5)   /* ye jo pass kar rahe wo argument hai */
 // console.log("Result",result);
 
 function loginUserMessage(username){
+    if(username===undefined){
+        console.log("Please Enter a username");
+        return
+    }
+    else{
     return `${username} just logged in`
+    }
 }
 
-loginUserMessage("Avanish")
+// console.log(loginUserMessage("Avanish"));
+console.log(loginUserMessage("Avanish"));    /*jab kuch pass nahi karte to undefined aata hai */
