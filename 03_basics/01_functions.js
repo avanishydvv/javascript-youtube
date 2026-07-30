@@ -50,3 +50,12 @@ function loginUserMessage(username = "sam"){
 
 /*******************Lec 20 ********************/
 
+/**           ... = ye rest operator hai sab item ek bundel (array) me kar ke de deta hai  *****/
+
+function calculateCartPrice(val1,val2,...num1){
+    return num1
+}
+
+console.log(calculateCartPrice(200,400,500,2000));
+
+
