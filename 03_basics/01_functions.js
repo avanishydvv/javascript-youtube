@@ -28,5 +28,10 @@ function addtwoNum(num1,num2){
 }
 const result = addtwoNum(3,5)   /* ye jo pass kar rahe wo argument hai */
 
-console.log("Result",result);
+// console.log("Result",result);
 
+function loginUserMessage(username){
+    return `${username} just logged in`
+}
+
+loginUserMessage("Avanish")
