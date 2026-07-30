@@ -30,7 +30,7 @@ const result = addtwoNum(3,5)   /* ye jo pass kar rahe wo argument hai */
 
 // console.log("Result",result);
 
-function loginUserMessage(username){
+function loginUserMessage(username = "sam"){
     if(username===undefined){
         console.log("Please Enter a username");
         return
@@ -41,4 +41,12 @@ function loginUserMessage(username){
 }
 
 // console.log(loginUserMessage("Avanish"));
-console.log(loginUserMessage("Avanish"));    /*jab kuch pass nahi karte to undefined aata hai */
+//console.log(loginUserMessage("Avanish"));    /*jab kuch pass nahi karte to undefined aata hai */
+
+/*********** completed till Lec 19 ******************/
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+/*******************Lec 20 ********************/
+
