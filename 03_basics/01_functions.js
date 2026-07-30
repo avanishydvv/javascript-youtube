@@ -83,3 +83,6 @@ function returnSecondValue(getArray){
 
 console.log(returnSecondValue(myNewArray));
 console.log(returnSecondValue([200,500,800,9000]));
+
+
+/******************** Lec 20completed   30/07/2026 *****************/
