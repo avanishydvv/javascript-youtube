@@ -194,34 +194,6 @@ const myArr2=new Array(1,2,3,4)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // console.log(myArr.includes(3));
 // console.log(myArr.includes(19));
 
