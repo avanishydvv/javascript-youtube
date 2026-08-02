@@ -23,16 +23,5 @@ console.log(a);
 //console.log(c);
 
 
-
-
-
-
-
-console.log(a);           
-//console.log(b);
-//console.log(c);
-
-
-
 /******************Completed till Lec 21   30/07/2026 ******************************/
 
