@@ -49,6 +49,14 @@ const user ={
 
 // const addTwo = (num1,num2) => num1 + num2
 
-const addTwo = (num1,num2) => ( num1 + num2 )
+// const addTwo = (num1,num2) => ( num1 + num2 )
+
+const addTwo = (num1,num2) => ({username: "Avanish"})
 
 console.log(addTwo(3,6));
+
+// const myArray = [2,5,6,8,9,4]
+
+// myArray.forEach()
+
+/************************LEC 23 completed ***********/
