@@ -27,38 +27,38 @@
 
 /********************* LEC 22 ********************/
 
-function one(){
-    const username = "Avanish"
+// function one(){
+//     const username = "Avanish"
 
-    function two(){
-        const website = "youtube"
-        console.log(username);
+//     function two(){
+//         const website = "youtube"
+//         console.log(username);
         
-    }
-    //console.log(website);
-    two()
-}
+//     }
+//     //console.log(website);
+//     two()
+// }
 
 //one()
 
-if(true){
-    const username = "Avanish";
-    if(username="Avanish"){
-        const website = " Youtube"
-        //console.log(username + website);
+// if(true){
+//     const username = "Avanish";
+//     if(username="Avanish"){
+//         const website = " Youtube"
+//         //console.log(username + website);
         
-    }
-    //console.log(website);
-}
+//     }
+//     //console.log(website);
+// }
 //console.log(username);
 
 /**************************** Interesting concept  **************/
 
+addOne(5)
 
 function addOne(num){
     return num + 1
 }
-addOne(5)
 
 const addTwo = function(num){
     return num + 2

@@ -1,14 +1,11 @@
-let a = 300
+function one(){
+//     const username = "Avanish"
 
-// if(true){ 
-//     let a = 10
-//     const b = 20
-//     //console.log("Inner",a);             /* Block Scope */
-    
+//     function two(){
+//         const website = "youtube"
+//         console.log(username);
+        
+//     }
+//     //console.log(website);
+//     two()
 // }
-
-// for (let i = 0; i < array.length; i++) {
-//     const element = array[i];
-    
-// }
-
