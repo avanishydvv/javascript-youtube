@@ -42,7 +42,7 @@ function one(){
 //one()
 
 if(true){
-    const username ="Avanish";
+    const username = "Avanish";
     if(username="Avanish"){
         const website = " Youtube"
         //console.log(username + website);
@@ -52,3 +52,16 @@ if(true){
 }
 //console.log(username);
 
+/**************************** Interesting concept  **************/
+
+
+function addOne(num){
+    return num + 1
+}
+addOne(5)
+
+const addTwo = function(num){
+    return num + 2
+}
+
+addTwo(5)
