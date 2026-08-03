@@ -5,11 +5,18 @@
 
 const isUserLoggedIn = true;
 
-if(isUserLoggedIn){
+// if(isUserLoggedIn){
 
+// }
+if(2==="2"){
+    console.log("Executed");
+    
 }
 
 
 // comparison operator
 
-< , > , <= , >
+/*
+< , > , <= , >= , == , != , === , !==,
+
+*/
