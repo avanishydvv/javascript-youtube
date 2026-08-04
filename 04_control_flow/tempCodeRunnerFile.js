@@ -1,3 +1,1 @@
-if(isUserLoggedIn){
-
-// }
+const isUserLoggedIn = true;
