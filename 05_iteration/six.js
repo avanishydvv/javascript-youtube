@@ -86,18 +86,3 @@ console.log(newNums);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
