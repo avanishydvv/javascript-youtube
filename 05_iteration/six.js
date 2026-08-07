@@ -25,3 +25,37 @@ const newNums = myNums.filter( (num)=> {
 console.log(newNums);
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
