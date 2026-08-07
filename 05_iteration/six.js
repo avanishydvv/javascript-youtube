@@ -94,11 +94,3 @@ console.log(newNums);
 
 
 
-
-
-
-
-
-
-
-
