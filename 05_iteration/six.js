@@ -102,8 +102,3 @@ console.log(newNums);
 
 
 
-
-
-
-
-
