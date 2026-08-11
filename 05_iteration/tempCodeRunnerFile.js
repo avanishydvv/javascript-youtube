@@ -1,3 +1,4 @@
-onst newNums = myNums.filter( (num)=> num > 4)
-
-// console.log(newNums);
+const values = coding.forEach((item)=>{
+    console.log(item);
+    return item;
+})
