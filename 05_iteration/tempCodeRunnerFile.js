@@ -1,6 +1,3 @@
-const values = coding.forEach((item)=>{
-    console.log(item);
-    return item;
-})
-
-console.log(values);
+userBooks = books.filter( (bk) => { 
+//     return bk.publish >= 1995 && bk.genre === "History"
+// })
