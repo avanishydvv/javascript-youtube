@@ -13,8 +13,6 @@
 // true => 1; false => 0
 
 
-
-
 // let isLoggedIN = ""
 
 // let booleanIsLoggedIn = Boolean(isLoggedIN)
