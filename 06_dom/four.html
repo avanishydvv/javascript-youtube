@@ -44,5 +44,15 @@
     const newLi = document.createElement('li')
     newLi.textContent = "MOJO"
     secondLang.replaceWith(newLi)
-</script>
+
+
+    const firstlang = document.querySelector("li:first-child")
+    firstLang.outerHTML = '<li>TypeScript</li>'
+    
+    // remove
+
+    const lastlang = document.querySelector('li:last-child')
+    lastlang.remove()
+    
+    </script>
 </html>
