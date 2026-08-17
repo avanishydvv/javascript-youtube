@@ -41,6 +41,13 @@
 
     document.getElementById('owl').addEventListener('click',function(e){
         console.log("OWL clicked ");
+        e.stopPropagation()
+    },false)
+
+    document.getElementById('google').addEventListener('click',function(e){
+        console.log("google clicked");
+        
+        e.defaultPrevented()
     },false)
 
 
