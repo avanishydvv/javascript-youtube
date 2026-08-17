@@ -312,3 +312,4 @@ document.querySelector('#stop').addEventListener('click', stopChangingColor);
 
 ```
 
+/*************************** LEC 35 Completed*****************/
