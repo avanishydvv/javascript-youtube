@@ -6,12 +6,25 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Chai aur Cpde</h1>
+    <h1>Chai aur Code</h1>
     <button id="stop">stop</button>
 </body>
 <script>
-    setTimeout(() => {
-        
-    }, timeout);
+    const sayHitesh = function(){
+    console.log("Avanish");
+   }
+   const changeText = function(){
+    document.querySelector('h1').innerHTML 
+   = "Best JS series"
+   }
+
+   const changeMe = setTimeout(changeText,2000)
+
+   document.querySelector('#stop').
+   addEventListener('click',function(){ 
+   clearTimeout(changeMe)
+   console.log("stopped");
+   
+   })
 </script>
 </html>
