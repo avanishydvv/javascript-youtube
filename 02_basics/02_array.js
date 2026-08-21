@@ -12,6 +12,7 @@ const dc_heros =["superman","flash","batman"]
 
 // console.log(allHeros);
 
+
 // const allNewheros = [...marvel_heros,...dc_heros]
 // console.log(allNewheros);
 
