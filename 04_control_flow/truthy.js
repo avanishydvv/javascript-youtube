@@ -49,6 +49,7 @@ console.log(val1);
 
 // Ternary Operator 
 
+
 // consdition ? true : false
 
 
