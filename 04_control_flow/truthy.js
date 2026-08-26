@@ -64,3 +64,5 @@ iceTeaPrice >= 100 ? console.log("Less tha 80 ") : console.log("More than 80")
 
 
 
+
+
